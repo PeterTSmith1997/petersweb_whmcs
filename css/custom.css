@@ -216,10 +216,10 @@ footer .icons-container {
     margin: auto;
     overflow: hidden;
     width: 150px; }
-footer .icons-container p {
+footer .icons-container a {
     float: left;
     margin: 1rem; }
-footer .icons-container p a {
+footer .icons-container a i {
     color: white;
     background-color: #f07800;
     height: 3rem;
@@ -354,7 +354,7 @@ p.cta-invert-dt a:hover {
     width: 100%;
     display: block;
     position: relative;
-    background-image: url("/assets/img/telescope.PNG");
+    background-image: url("/assets/img/telescope.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center; }
