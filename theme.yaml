@@ -1,0 +1,7 @@
+# WHMCS Twenty-One Theme Configuration File
+
+name: "petersweb"
+description: "petersweb theme"
+author: "Peter"
+config:
+ parent: twenty-one
