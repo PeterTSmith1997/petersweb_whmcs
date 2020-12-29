@@ -219,8 +219,9 @@ footer .icons-container {
 footer .icons-container a {
     float: left;
     margin: 1rem; }
-footer .icons-container a i {
+footer .icons-container li {
     color: white;
+	list-style: none;
     background-color: #f07800;
     height: 3rem;
     width: 3rem;
